@@ -1,14 +1,49 @@
 ## 英語でオープンソース開発の<br>すすめ
 
-書いた人： 矢野勉
-
 ---
 ![sponsor](images/join_to_open_source/sponsor.png)
+
+---
+## 誰？ / 今日話すこと
+
+名前： 矢野勉
+* 京都で会社やってます。
+* UBでも仕事してます。
+
+---
+## 仕事
+
+<table border="0">
+<tbody>
+<tr>
+<td>
+書いた本<br>
+ <img src="images/join_to_open_source/wicket.png" style="width: 50%; height: 50%;">
+ </td>
+ <td>
+ 手伝った本<br>
+ <img src="images/join_to_open_source/java_the_good_parts.png" style="width: 50%; height: 50%;">
+ </td>
+ </tr>
+ <tr>
+ <td colspan="2">
+ 作ったサービス<br>
+https://shelfmap.com/
+</td>
+ </tr>
+ </tbory>
+ </table>
+
+---
+最近、Clojureプロジェクトにソース提供したのでその話をします。
+
 
 ---
 ## オープンソース開発に<br>参加してますか？
 
 今は、オープンソース開発に<br>ものすごく参加しやすい時代になりました
+
+![github.png](images/join_to_open_source/github.png)
 
 ---
 ## Githubでの開発参加
@@ -44,6 +79,8 @@
 * メーリングリスト
 * JIRA
 * パッチ登録
+* プルリクエストを使わない（Clojure開発者にとってパッチファイルの方が楽なため）
+
 ---
 ## 実体験
 
@@ -70,7 +107,11 @@ http://clojure.org/community/contributing
 ---
 ## 最後は Rich Hickey が決める
 
-Rich Hickey <- Screener <- Contributer
+Rich Hickey  
+↑  
+Screener  
+↑  
+Contributer
 
 ---
 ## Rich に辿り着くまでの道のり
@@ -156,7 +197,7 @@ OSSの開発スピード＞翻訳スピード
 ![radar2](images/join_to_open_source/09_tech_radar2.png)
 
 ---
-## でもよくなったところも
+## 加速した結果
 
 ---
 ### 小振りな本がたくさん出るようになった
