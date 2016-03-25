@@ -1,4 +1,4 @@
-## 英語でオープンソース開発の<br>すすめ
+## オープンソース開発の<br>すすめ
 
 ---
 ![sponsor](images/join_to_open_source/sponsor.png)
